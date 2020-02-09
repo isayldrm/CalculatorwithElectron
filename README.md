@@ -1,2 +1,2 @@
 # CalculatorwithElectron
-The repository includes the Calculator Application with Nodejs-Electron-MySql
+The repository includes the Calculator Application with use Nodejs-Electron
